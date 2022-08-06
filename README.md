@@ -1,7 +1,7 @@
 # Turkish-Military-Place-in-The-World
 Hello, ı used this dataset from https://www.kaggle.com/datasets/muhammedtausif/military-size-by-country-2022.
 
-Actually everybody knows Turkish Army is the best a few Army's in the world, generally peoples thinks Turkey in the like top 7-8.
+Actually everybody knows Turkish Army is the best a few Army's in the world, generally peoples thinks Turkey in the like top 10.
 
 But datas are not like this.
 
